@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "name": "Hiroshi", "age": 25 },
+    { "id": 2, "name": "Toru", "age": 32 },
+    { "id": 3, "name": "Yoshiko", "age": 30}
+  ]
+}
